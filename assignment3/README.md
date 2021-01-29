@@ -1,0 +1,1 @@
+This is the directory for assignment 3 of CME241.
