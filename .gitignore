@@ -22,3 +22,6 @@ __pycache__
 
 # midterm
 midterm/
+
+# assignments
+!assignment*/*.pdf
